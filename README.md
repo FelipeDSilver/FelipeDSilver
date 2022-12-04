@@ -1,6 +1,8 @@
-# 💫 About Me:
-I'm currently learning to be a developer.<br>I'm a beginner so i'm open to learn anything new!
+# Hi there 👋, my name is Felipe
+> I am studying to be a multiplataform developer <br>
+I love playing video games and discover new things
 
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Felipe Donizete) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipe.donizete) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Felipe Donizete) 
